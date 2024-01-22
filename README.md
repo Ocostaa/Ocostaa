@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @Ocostaa
-- 👀 I’m interested in python, sql, math..
-- 🌱 I’m currently learning data science
-
-<!---
-Ocostaa/Ocostaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Dedicado aos estudos de Ciência de Dados, meu foco é me tornar um Cientista de Dados qualificado. Estou aprofundando meus conhecimentos em Python, SQL, Power BI, Tableau e Machine Learning para aprimorar minhas habilidades. Neste momento, estou em busca da certificação IBM Professional Data Analyst, impulsionando minha transição de carreira. Com paixão por transformar dados em insights práticos, estou construindo um portfólio realista para destacar minha jornada de aprendizado. Estou ansioso por oportunidades que me permitam aplicar esse conhecimento e contribuir com soluções inovadoras no campo da Ciência de Dados. 
